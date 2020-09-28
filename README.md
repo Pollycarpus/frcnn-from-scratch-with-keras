@@ -1,4 +1,5 @@
-![image](https://github.com/kentaroy47/frcnn-from-scratch-with-keras/blob/master/images/85.png)
+![image](https://github.com/Pollycarpus/frcnn-from-scratch-with-keras/blob/master/Picture1.jpg)
+![image](https://github.com/Pollycarpus/frcnn-from-scratch-with-keras/blob/master/Picture2.jpg)
 
 # Traffic Sign Detection Using CNN for Indonesia
 -- under Apache 2.0 license --
@@ -7,7 +8,7 @@
 
 - **RPN (region proposal layer) can be trained separately!**
 
-- **VGG**
+- **VGG16**
 
 - **ResNet50**
 
